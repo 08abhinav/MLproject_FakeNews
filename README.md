@@ -1,1 +1,1 @@
-# MLproject_FakeNews
+# Face-News-Detection-Machine-Learning
